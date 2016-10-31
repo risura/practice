@@ -1,3 +1,6 @@
-chie
 sasaki
+<<<<<<< HEAD
 yosa
+=======
+chie
+>>>>>>> f7f6d38552497fc3c12b33343a3a3e74464fe700
